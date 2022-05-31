@@ -6,7 +6,7 @@ public class ConnectionDB {
 		String url = "jdbc:mysql://localhost:3306/tierlist?characterEncoding=UTF-8&useSSL=false";
 		String uname = "root";
 		String pwd = "12345678";
-		/*1234 */
+		/*12345 */
 		
 		public Connection getConnection() {
 			conn = null;
