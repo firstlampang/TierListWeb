@@ -1,0 +1,26 @@
+@charset "UTF-8";
+.textcenter {
+    text-align: center;
+}
+
+.w40{
+	width: 40%;
+	margin: 15px 550px 15px;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.h4-20{
+	 margin-top: 20px;
+    margin-bottom: 20px; 
+}
+.list-item {
+    padding: 2px;
+    position: relative;
+    flex: none;
+    max-width: 100%;
+}
+
+
